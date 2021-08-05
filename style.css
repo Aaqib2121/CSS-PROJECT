@@ -1,0 +1,59 @@
+body{
+    background-color:  #006699;
+}
+
+h1{
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 50px;
+}
+.first-name{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.last-name{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.email{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.city{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.message{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 50px;
+}
+.phone-number{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.send{
+    color: white;
+    background-color:green;
+    width: 100%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    margin: 25px 25px
+    border-radius 4px;
+}
+.scf{
+    background-color: white;
+     margin-top: 50px; 
+    margin-bottom: 50px;
+    margin-right: 500px;
+    margin-left: 500px; 
+    padding: 50px;
+}
+.input-field{
+    margin-bottom: 18px;
+}
+
